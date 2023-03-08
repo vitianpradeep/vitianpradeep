@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 <h2 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/11/Data-science-gif.gif"> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*H4cHks1eEdrW7Zlz.gif"> </p>
 
 ## 🔭 I’m currently working on 
 - **ChatBot For Farmers Help**
@@ -19,18 +19,18 @@
 
 ## 📫 How to reach me 
 - **vitianpradeep@gmail.com**
-
+<img align="right" alt="Coding" width="400" src="https://ucarecdn.com/687262eb-1a0c-4a53-8de8-317b1eff509a/"> </p>
 ## 📄 Know about my experiences 
-- [shorturl.at/iHOVZ](shorturl.at/iHOVZ)
+-**Resume** - [shorturl.at/iHOVZ](shorturl.at/iHOVZ) <br/>
+-**Portfolio Link** - https://sites.google.com/view/pradeepkumarsahu/home
 
 ## ⚡ Fun fact 
 - **We need to be real not perfect**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep" height="30" width="40" /></a>
+<p align="centre">
+  <a href="https://www.linkedin.com/in/pradeep-kumar-ram-ram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeep" height="30" width="40" /></a>
 <a href="https://kaggle.com/pradeepdatascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pradeepdatascientist" height="30" width="40" /></a>
-<a href="https://fb.com/pradeep kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pradeep kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/pradeep_the_celibate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradeep_the_celibate" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vitianpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vitianpradeep" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vitianpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vitianpradeep" height="30" width="40" /></a>
