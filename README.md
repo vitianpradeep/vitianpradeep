@@ -33,7 +33,7 @@
 <a href="https://kaggle.com/pradeepdatascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pradeepdatascientist" height="30" width="40" /></a>
 <a href="https://instagram.com/pradeep_the_celibate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pradeep_the_celibate" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vitianpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vitianpradeep" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vitianpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vitianpradeep" height="30" width="40" /></a>
+<a href="https://leetcode.com/22MCA1049/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vitianpradeep" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
